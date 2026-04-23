@@ -1,1 +1,0 @@
-from claster.gui.workers.analysis_worker import AnalysisWorker

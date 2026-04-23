@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Виртуальное окружение
+venv/
+env/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Временные файлы
+*.log
+*.tmp
+temp/
+logs/
+
+# Модели и данные (слишком большие для GitHub)
+models/
+data/raw/
+data/external/
+
+# Конфигурация (может содержать пути)
+config.yaml
+
+# Скомпилированные файлы
+*.exe
+*.dll
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
